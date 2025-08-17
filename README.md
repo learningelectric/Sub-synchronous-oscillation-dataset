@@ -1,5 +1,5 @@
 # Sub-synchronous-oscillation-dataset
-Title: Are Oscillation Mechanisms Important for AI to Identify Oscillation Sources? A Case Study
+Title: Are Mechanisms Important for AI to Identify Oscillation Sources? A Case Study
 
 Our paper is currently under review.
 
