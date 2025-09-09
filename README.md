@@ -9,7 +9,7 @@ Grid-connected wind turbine generators (WTGs) may induce sub-synchronous oscilla
 You can find our dataset for the Oscillation Source Localization [here](https://drive.google.com/drive/folders/1dGAl3Rb6wefdHkaHc-fYMajqBMuItwuE?usp=sharing).
 
 ## Result Verification
-Open Main.ipynb
+Main.ipynb
 
 ## Requirements
 
