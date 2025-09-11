@@ -2,7 +2,7 @@
 [IEEE Transactions on Sustainable Energy] Are Mechanisms Important for AI to Identify Oscillation Sources? A Case Study
 
 ## Dataset Preparation
-You can find our dataset for the Oscillation Source Localization here: [Google Drive](https://drive.google.com/drive/folders/1dGAl3Rb6wefdHkaHc-fYMajqBMuItwuE?usp=sharing).
+Dataset for oscillation source localization is available here on [Google Drive](https://drive.google.com/drive/folders/1dGAl3Rb6wefdHkaHc-fYMajqBMuItwuE?usp=sharing).
 
 ## Result Verification
 Main.ipynb
