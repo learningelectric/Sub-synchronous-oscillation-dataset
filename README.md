@@ -19,10 +19,10 @@ If you find this paper and repository useful, please cite our paper 😊.
   author={Liu, Peili and Du, Wenjuan and Fu, Qiang and Wang, Haifeng},
   journal={IEEE Transactions on Sustainable Energy}, 
   title={Are Mechanisms Important for AI to Identify Oscillation Sources? A Case Study}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-12},
+  year={2026},
+  volume={17},
+  number={4},
+  pages={3228-3239},
   keywords={Artificial intelligence;Wind farms;Resistance;Oscillators;Resonance;Power systems;Training;Impedance;Doubly fed induction generators;Data models;Subsynchronous oscillation (SSO);SSO mechanism;explainable artificial intelligence},
   doi={10.1109/TSTE.2025.3610028}}
 ```
